@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-12 #15:59:00-0400
+date: 2026-07-17 #15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I've officially started my PhD at Northwestern MTS!
+[My first paper](https://jonghyunjee.github.io/assets/pdf/LLM_Film_Preference.pdf) as a PhD student got accepted to [AIES 2026](https://www.aies-conference.com/2026/)!
