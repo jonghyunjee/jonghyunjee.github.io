@@ -26,10 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Jonghyun (pronounced Jong-H-*yuh*-n, not Hyoon), a first-year PhD student in the [Media, Technology, and Society](https://mts.northwestern.edu) program at Northwestern University, advised by Dr. Aaron Shaw and affiliated with the [Community Data Science Collective](https://wiki.communitydata.science/Main_Page).
+Hello! I'm Jonghyun (pronounced Jong-H-*yuh*-n, not Hyoon), a first-year PhD student in the [Media, Technology, and Society](https://mts.northwestern.edu) program at Northwestern University, advised by Dr. [Aaron Shaw](https://aaronshaw.org/) and affiliated with the [Community Data Science Collective](https://wiki.communitydata.science/Main_Page).
 
-I’m interested in online communities like Wikipedia, Reddit, YouTube, or just any places where people argue, make rules, and argue about rules. Lately I've been working on whether AI systems have cultural taste and, if so, what that even means. There’s a Bourdieusian loop that's tricky to unknot — taste predicts class; class predicts taste. If LLMs exhibit preferences for films and music and books, it’s because millions of people left traces of theirs. I’d like to know what survived the aggregation.
+I’m intrigued by online communities like Wikipedia, Reddit, YouTube, or just any places where people argue, make rules, and argue about rules. Lately I've been working on whether AI systems have cultural taste and, if so, what that even means. If LLMs exhibit preferences for films and music, it’s because millions of people left traces of their own online. I’d like to know what survived the aggregation.
 
-Before joining the CDSC, I majored in Interactive Media Arts from NYU Shanghai with a minor in Philosophy. I then completed my MS at KAIST (Korea Advanced Institute of Science & Technology) as part of the inaugural cohort in their [Graduate School of Metaverse](https://meta.kaist.ac.kr). Academia was the plot twist that made everything else make sense.
+Before Northwestern, I majored in Interactive Media Arts from NYU Shanghai with a minor in Philosophy. I then completed my MS at KAIST as part of the inaugural cohort in their [Graduate School of Metaverse](https://meta.kaist.ac.kr). There, I was advised by Dr. [Bong Gwan Jun](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/22) and Dr. [Joseph Seering](https://joseph.seering.org/), affilated with the [Collaborative Social Technologies Lab](https://cstlab.org/).
 
 When I procrastinate, I practice zen meditation and enjoy writing short film synopses.
