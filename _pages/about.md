@@ -8,7 +8,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: 2430, FSB </p>
     <p>2240 Campus Drive</p>
     <p>Evanston, IL 60208</p>
 
