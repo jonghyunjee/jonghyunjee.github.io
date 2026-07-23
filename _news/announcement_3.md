@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm heading to Bergen, Norway for my first CSCW conference 🇳🇴
+I'm heading to Bergen, Norway for my first [CSCW](https://cscw.acm.org/2025/) conference 🇳🇴
