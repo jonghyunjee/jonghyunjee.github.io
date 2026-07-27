@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be attending [DH2026](https://dh2026.adho.org/) in Daejeon, South Korea from Jul 27 to 31!
+Delighted to be back in Daejeon for [DH2026](https://dh2026.adho.org/) on through Jul 31 :D
