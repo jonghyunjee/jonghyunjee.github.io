@@ -5,6 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jonghyun
 last_name: Jee
+<meta name="google-site-verification" content="AAX3Y5sTruHnFnTlUisCuZ0XX7VMnNew0cjxnDXe8V4" />
 contact_note: >
   # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -113,8 +114,7 @@ analytics:
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: AAX3Y5sTruHnFnTlUisCuZ0XX7VMnNew0cjxnDXe8V4 (Google Search Console)
-# <meta name="google-site-verification" content="AAX3Y5sTruHnFnTlUisCuZ0XX7VMnNew0cjxnDXe8V4" />
+google_site_verification: AAX3Y5sTruHnFnTlUisCuZ0XX7VMnNew0cjxnDXe8V4
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
