@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[My first paper](https://jonghyunjee.github.io/assets/pdf/LLM_Film_Preference.pdf) as a PhD student got accepted to [AIES 2026](https://www.aies-conference.com/2026/)!
+[My first paper](https://arxiv.org/abs/2608.06955) as a PhD student got accepted to [AIES 2026](https://www.aies-conference.com/2026/)!
