@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Jonghyun (pronounced Jong-H-*yuh*-n, not Hyoon), a first-year PhD student in the [Media, Technology, and Society](https://mts.northwestern.edu) program at Northwestern University, where I work with the [Community Data Science Collective](https://wiki.communitydata.science/Main_Page) under the supervision of Dr. [Aaron Shaw](https://aaronshaw.org/).
+Hello! I'm Jonghyun (pronounced Jong-H-*yuh*-n, not Hyoon), a first-year PhD student in the [Media, Technology, and Society](https://mts.northwestern.edu) program at Northwestern University, where I work with the [Community Data Science Collective](https://wiki.communitydata.science/Main_Page) and Dr. [Aaron Shaw](https://aaronshaw.org/).
 
 I’m intrigued by online communities like Wikipedia, Reddit, YouTube, or just any places where people argue, make rules, and argue about rules. Lately I've been researching whether AI systems have cultural taste and, if so, what that even means. If LLMs exhibit preferences for films and music, it’s because millions of people left traces of theirs  online. I’d like to know what survived the aggregation.
 
-Before attending Northwestern, I majored in Interactive Media Arts from NYU Shanghai with a minor in Philosophy. I then completed my MS at KAIST as part of the inaugural cohort in their [Graduate School of Metaverse](https://meta.kaist.ac.kr). There, I was advised by Dr. [Bong Gwan Jun](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/22) and Dr. [Joseph Seering](https://joseph.seering.org/), affiliated with the [Collaborative Social Technologies Lab](https://cstlab.org/).
+Before Northwestern, I majored in Interactive Media Arts from NYU Shanghai with a minor in Philosophy. I then completed my MS at KAIST as part of the inaugural cohort in their [Graduate School of Metaverse](https://meta.kaist.ac.kr). There, I was advised by Dr. [Bong Gwan Jun](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/22) and Dr. [Joseph Seering](https://joseph.seering.org/), affiliated with the [Collaborative Social Technologies Lab](https://cstlab.org/).
 
 When I procrastinate, I practice zen meditation and enjoy writing short film synopses.
