@@ -32,15 +32,3 @@ I’m intrigued by online communities like Wikipedia, Reddit, YouTube, or just a
 Before Northwestern, I majored in Interactive Media Arts from NYU Shanghai with a minor in Philosophy. I then completed my MS at KAIST as part of the inaugural cohort in their [Graduate School of Metaverse](https://meta.kaist.ac.kr). There, I was advised by Dr. [Bong Gwan Jun](https://hss.kaist.ac.kr/boards/view/fulltime_professor_en/22) and Dr. [Joseph Seering](https://joseph.seering.org/), affiliated with the [Collaborative Social Technologies Lab](https://cstlab.org/).
 
 When I procrastinate, I practice zen meditation and enjoy writing short film synopses.
-
-<p id="quote" style="color: gray; font-style: italic;"></p>
-
-<script>
-const quotes = [
-  {% for quote in site.data.quotes %}
-  { text: "{{ quote.text }}", author: "{{ quote.author }}" },
-  {% endfor %}
-];
-const q = quotes[Math.floor(Math.random() * quotes.length)];
-document.getElementById("quote").textContent = `"${q.text}" — ${q.author}`;
-</script>
