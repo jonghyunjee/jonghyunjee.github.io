@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Jonghyun (pronounced Jong-H-*yuh*-n, not Hyoon), a second-year PhD student in the [Media, Technology, and Society](https://mts.northwestern.edu) program at Northwestern University, where I work with the [Community Data Science Collective](https://wiki.communitydata.science/Main_Page) and Dr. [Aaron Shaw](https://aaronshaw.org/).
+Hello! I'm Jonghyun (pronounced Jong-H-*yuh*-n, not Hyoon), a second-year PhD student in the [Media, Technology, and Society](https://mts.northwestern.edu) program at Northwestern University, where I work with the [Community Data Science Collective](https://wiki.communitydata.science/Main_Page) and Dr. [Aaron Shaw](https://aaronshaw.org).
 
 I’m intrigued by online communities like Wikipedia, Reddit, YouTube, or just any places where people argue, make rules, and argue about rules. Lately I've been researching whether AI systems have cultural taste and, if so, what that even means. If LLMs exhibit preferences for films and music, it’s because millions of people left traces of theirs  online. I’d like to know what survived the aggregation.
 
