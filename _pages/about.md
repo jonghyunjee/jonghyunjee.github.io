@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>2240 Campus Drive</p>
     <p>Evanston, IL 60208</p>
