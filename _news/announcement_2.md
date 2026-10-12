@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[My first paper](https://arxiv.org/abs/2608.06955) as a PhD student got accepted to [AIES 2026](https://www.aies-conference.com/2026/)!
+[My first paper](https://ojs.aaai.org/index.php/AIES/article/view/43232) as a PhD student got accepted to AAAI/ACM Conference on AI, Ethics, and Society!
